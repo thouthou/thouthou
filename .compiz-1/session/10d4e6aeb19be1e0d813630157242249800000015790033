@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<compiz_session id="10d4e6aeb19be1e0d813630157242249800000015790033">
+  <window id="10d4e6aeb19be1e0d8136301577282872800000015790036" title="Terminal" class="Gnome-terminal" name="gnome-terminal" role="gnome-terminal-window-1964--1028745127-1363015772" command="gnome-terminal">
+    <geometry x="587" y="127" width="722" height="434"/>
+    <workspace index="0"/>
+  </window>
+</compiz_session>

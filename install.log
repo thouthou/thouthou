@@ -1,0 +1,77 @@
+Ign http://mirror-fpt-telecom.fpt.net precise InRelease
+Ign http://mirror-fpt-telecom.fpt.net precise-updates InRelease
+Ign http://mirror-fpt-telecom.fpt.net precise-backports InRelease
+Ign http://mirror-fpt-telecom.fpt.net precise-security InRelease
+Hit http://mirror-fpt-telecom.fpt.net precise Release.gpg
+Hit http://mirror-fpt-telecom.fpt.net precise-updates Release.gpg
+Hit http://mirror-fpt-telecom.fpt.net precise-backports Release.gpg
+Hit http://mirror-fpt-telecom.fpt.net precise-security Release.gpg
+Hit http://mirror-fpt-telecom.fpt.net precise Release
+Hit http://mirror-fpt-telecom.fpt.net precise-updates Release
+Hit http://mirror-fpt-telecom.fpt.net precise-backports Release
+Hit http://mirror-fpt-telecom.fpt.net precise-security Release
+Hit http://mirror-fpt-telecom.fpt.net precise/main Sources
+Hit http://mirror-fpt-telecom.fpt.net precise/restricted Sources
+Hit http://mirror-fpt-telecom.fpt.net precise/universe Sources
+Hit http://mirror-fpt-telecom.fpt.net precise/multiverse Sources
+Hit http://mirror-fpt-telecom.fpt.net precise/main i386 Packages
+Hit http://mirror-fpt-telecom.fpt.net precise/restricted i386 Packages
+Hit http://mirror-fpt-telecom.fpt.net precise/universe i386 Packages
+Hit http://mirror-fpt-telecom.fpt.net precise/multiverse i386 Packages
+Hit http://mirror-fpt-telecom.fpt.net precise/main TranslationIndex
+Hit http://mirror-fpt-telecom.fpt.net precise/multiverse TranslationIndex
+Hit http://mirror-fpt-telecom.fpt.net precise/restricted TranslationIndex
+Hit http://mirror-fpt-telecom.fpt.net precise/universe TranslationIndex
+Hit http://mirror-fpt-telecom.fpt.net precise-updates/main Sources
+Hit http://mirror-fpt-telecom.fpt.net precise-updates/restricted Sources
+Hit http://mirror-fpt-telecom.fpt.net precise-updates/universe Sources
+Hit http://mirror-fpt-telecom.fpt.net precise-updates/multiverse Sources
+Hit http://mirror-fpt-telecom.fpt.net precise-updates/main i386 Packages
+Hit http://mirror-fpt-telecom.fpt.net precise-updates/restricted i386 Packages
+Hit http://mirror-fpt-telecom.fpt.net precise-updates/universe i386 Packages
+Hit http://mirror-fpt-telecom.fpt.net precise-updates/multiverse i386 Packages
+Hit http://mirror-fpt-telecom.fpt.net precise-updates/main TranslationIndex
+Hit http://mirror-fpt-telecom.fpt.net precise-updates/multiverse TranslationIndex
+Hit http://mirror-fpt-telecom.fpt.net precise-updates/restricted TranslationIndex
+Hit http://mirror-fpt-telecom.fpt.net precise-updates/universe TranslationIndex
+Hit http://mirror-fpt-telecom.fpt.net precise-backports/main Sources
+Hit http://mirror-fpt-telecom.fpt.net precise-backports/restricted Sources
+Hit http://mirror-fpt-telecom.fpt.net precise-backports/universe Sources
+Hit http://mirror-fpt-telecom.fpt.net precise-backports/multiverse Sources
+Hit http://mirror-fpt-telecom.fpt.net precise-backports/main i386 Packages
+Hit http://mirror-fpt-telecom.fpt.net precise-backports/restricted i386 Packages
+Hit http://mirror-fpt-telecom.fpt.net precise-backports/universe i386 Packages
+Hit http://mirror-fpt-telecom.fpt.net precise-backports/multiverse i386 Packages
+Hit http://mirror-fpt-telecom.fpt.net precise-backports/main TranslationIndex
+Hit http://mirror-fpt-telecom.fpt.net precise-backports/multiverse TranslationIndex
+Hit http://mirror-fpt-telecom.fpt.net precise-backports/restricted TranslationIndex
+Hit http://mirror-fpt-telecom.fpt.net precise-backports/universe TranslationIndex
+Hit http://mirror-fpt-telecom.fpt.net precise-security/main Sources
+Hit http://mirror-fpt-telecom.fpt.net precise-security/restricted Sources
+Hit http://mirror-fpt-telecom.fpt.net precise-security/universe Sources
+Hit http://mirror-fpt-telecom.fpt.net precise-security/multiverse Sources
+Hit http://mirror-fpt-telecom.fpt.net precise-security/main i386 Packages
+Hit http://mirror-fpt-telecom.fpt.net precise-security/restricted i386 Packages
+Hit http://mirror-fpt-telecom.fpt.net precise-security/universe i386 Packages
+Hit http://mirror-fpt-telecom.fpt.net precise-security/multiverse i386 Packages
+Hit http://mirror-fpt-telecom.fpt.net precise-security/main TranslationIndex
+Hit http://mirror-fpt-telecom.fpt.net precise-security/multiverse TranslationIndex
+Hit http://mirror-fpt-telecom.fpt.net precise-security/restricted TranslationIndex
+Hit http://mirror-fpt-telecom.fpt.net precise-security/universe TranslationIndex
+Hit http://mirror-fpt-telecom.fpt.net precise/main Translation-en
+Hit http://mirror-fpt-telecom.fpt.net precise/multiverse Translation-en
+Hit http://mirror-fpt-telecom.fpt.net precise/restricted Translation-en
+Hit http://mirror-fpt-telecom.fpt.net precise/universe Translation-en
+Hit http://mirror-fpt-telecom.fpt.net precise-updates/main Translation-en
+Hit http://mirror-fpt-telecom.fpt.net precise-updates/multiverse Translation-en
+Hit http://mirror-fpt-telecom.fpt.net precise-updates/restricted Translation-en
+Hit http://mirror-fpt-telecom.fpt.net precise-updates/universe Translation-en
+Hit http://mirror-fpt-telecom.fpt.net precise-backports/main Translation-en
+Hit http://mirror-fpt-telecom.fpt.net precise-backports/multiverse Translation-en
+Hit http://mirror-fpt-telecom.fpt.net precise-backports/restricted Translation-en
+Hit http://mirror-fpt-telecom.fpt.net precise-backports/universe Translation-en
+Hit http://mirror-fpt-telecom.fpt.net precise-security/main Translation-en
+Hit http://mirror-fpt-telecom.fpt.net precise-security/multiverse Translation-en
+Hit http://mirror-fpt-telecom.fpt.net precise-security/restricted Translation-en
+Hit http://mirror-fpt-telecom.fpt.net precise-security/universe Translation-en
+Reading package lists...

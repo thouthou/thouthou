@@ -1,0 +1,59 @@
+2013-03-11 20:27:44,097 - softwarecenter.ui.gtk3.app - INFO - setting up proxy 'None'
+2013-03-11 20:27:44,137 - softwarecenter.db.database - INFO - open() database: path=None use_axi=True use_agent=True
+2013-03-11 20:27:44,144 - softwarecenter.db.database - ERROR - failed to add apt-xapian-index
+Traceback (most recent call last):
+  File "/usr/share/software-center/softwarecenter/db/database.py", line 179, in _get_new_xapiandb
+    softwarecenter.paths.APT_XAPIAN_INDEX_DB_PATH)
+  File "/usr/lib/python2.7/dist-packages/xapian/__init__.py", line 3666, in __init__
+    _xapian.Database_swiginit(self,_xapian.new_Database(*args))
+DatabaseOpeningError: Couldn't stat '/var/lib/apt-xapian-index/index' (No such file or directory)
+2013-03-11 20:27:44,535 - softwarecenter.backend.reviews - WARNING - Could not get usefulness from server, no username in config file
+2013-03-11 20:27:44,702 - softwarecenter.backend.spawn_helper - WARNING - exit code 1 from helper for '['/usr/share/software-center/piston_generic_helper.py', '--datadir', '/usr/share/software-center/', 'RatingsAndReviewsAPI', 'review_stats']'
+2013-03-11 20:27:44,703 - softwarecenter.backend.spawn_helper - WARNING - got error from helper: 'WARNING:__main__:Unable to find the server at reviews.ubuntu.com
+'
+2013-03-11 20:27:45,069 - softwarecenter.db.categories - WARNING - sort by cataloged time requested but your a-x-i does not seem to support that yet
+2013-03-11 20:27:45,632 - softwarecenter.db.categories - WARNING - sort by cataloged time requested but your a-x-i does not seem to support that yet
+2013-03-11 20:27:45,712 - softwarecenter.db.categories - WARNING - sort by cataloged time requested but your a-x-i does not seem to support that yet
+2013-03-11 20:27:45,743 - softwarecenter.db.categories - WARNING - sort by cataloged time requested but your a-x-i does not seem to support that yet
+2013-03-11 20:27:45,780 - softwarecenter.db.categories - WARNING - sort by cataloged time requested but your a-x-i does not seem to support that yet
+2013-03-11 20:27:46,019 - softwarecenter.db.categories - WARNING - sort by cataloged time requested but your a-x-i does not seem to support that yet
+2013-03-11 20:27:46,050 - softwarecenter.db.categories - WARNING - sort by cataloged time requested but your a-x-i does not seem to support that yet
+2013-03-11 20:27:46,087 - softwarecenter.backend.spawn_helper - WARNING - exit code 1 from helper for '['/usr/share/software-center/piston_generic_helper.py', '--datadir', '/usr/share/software-center/', 'SoftwareCenterAgentAPI', 'exhibits', '{"lang": "en", "series": "precise"}']'
+2013-03-11 20:27:46,087 - softwarecenter.backend.spawn_helper - WARNING - got error from helper: 'WARNING:__main__:Unable to find the server at software-center.ubuntu.com
+'
+2013-03-11 20:27:51,458 - softwarecenter.db.database - ERROR - failed to add apt-xapian-index
+Traceback (most recent call last):
+  File "/usr/share/software-center/softwarecenter/db/database.py", line 179, in _get_new_xapiandb
+    softwarecenter.paths.APT_XAPIAN_INDEX_DB_PATH)
+  File "/usr/lib/python2.7/dist-packages/xapian/__init__.py", line 3666, in __init__
+    _xapian.Database_swiginit(self,_xapian.new_Database(*args))
+DatabaseOpeningError: Couldn't stat '/var/lib/apt-xapian-index/index' (No such file or directory)
+2013-03-11 20:27:55,824 - softwarecenter.db.categories - WARNING - sort by cataloged time requested but your a-x-i does not seem to support that yet
+2013-03-11 20:27:56,025 - softwarecenter.db.categories - WARNING - sort by cataloged time requested but your a-x-i does not seem to support that yet
+2013-03-11 20:27:56,582 - softwarecenter.db.categories - WARNING - sort by cataloged time requested but your a-x-i does not seem to support that yet
+2013-03-11 20:27:56,613 - softwarecenter.db.categories - WARNING - sort by cataloged time requested but your a-x-i does not seem to support that yet
+2013-03-11 20:28:15,367 - softwarecenter.backend.spawn_helper - WARNING - exit code 1 from helper for '['/usr/share/software-center/piston_generic_helper.py', '--datadir', '/usr/share/software-center/', 'SoftwareCenterAgentAPI', 'available_apps', '{"lang": "en", "series": "precise", "arch": "i386"}']'
+2013-03-11 20:28:15,367 - softwarecenter.backend.spawn_helper - WARNING - got error from helper: 'WARNING:__main__:Unable to find the server at software-center.ubuntu.com
+'
+2013-03-11 20:28:15,367 - softwarecenter.db.update - WARNING - error: WARNING:__main__:Unable to find the server at software-center.ubuntu.com
+
+2013-03-11 20:28:15,379 - softwarecenter.ui.gtk3.app - INFO - software-center-agent finished with status 1
+2013-03-11 21:56:12,449 - softwarecenter.ui.gtk3.app - INFO - setting up proxy 'None'
+2013-03-11 21:56:12,478 - softwarecenter.db.database - INFO - open() database: path=None use_axi=True use_agent=True
+2013-03-11 21:56:12,980 - softwarecenter.backend.reviews - WARNING - Could not get usefulness from server, no username in config file
+2013-03-11 21:56:13,112 - softwarecenter.ui.gtk3.app - INFO - show_available_packages: search_text is '', app is None.
+2013-03-11 21:56:13,118 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2013-03-11 21:56:21,749 - softwarecenter.db.update - INFO - skipping region restricted app: 'Bulleti d'esquerra de Calonge i Sant Antoni ' (not whitelisted)
+2013-03-11 21:56:21,999 - softwarecenter.db.update - INFO - skipping region restricted app: 'Swiftcrypt' (blacklisted) 
+2013-03-11 21:56:22,081 - softwarecenter.db.update - INFO - skipping region restricted app: 'Comentarios Web' (not whitelisted)
+2013-03-11 22:50:53,016 - softwarecenter.ui.gtk3.app - INFO - setting up proxy 'None'
+2013-03-11 22:50:53,063 - softwarecenter.db.database - INFO - open() database: path=None use_axi=True use_agent=True
+2013-03-11 22:50:53,733 - softwarecenter.backend.reviews - WARNING - Could not get usefulness from server, no username in config file
+2013-03-11 22:50:54,048 - softwarecenter.ui.gtk3.app - INFO - show_available_packages: search_text is '', app is None.
+2013-03-11 22:50:54,058 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2013-03-11 22:51:05,293 - softwarecenter.db.update - INFO - skipping region restricted app: 'Bulleti d'esquerra de Calonge i Sant Antoni ' (not whitelisted)
+2013-03-11 22:51:05,569 - softwarecenter.db.update - INFO - skipping region restricted app: 'Swiftcrypt' (blacklisted) 
+2013-03-11 22:51:05,656 - softwarecenter.db.update - INFO - skipping region restricted app: 'Comentarios Web' (not whitelisted)
+2013-03-11 22:51:06,491 - softwarecenter.ui.gtk3.app - INFO - software-center-agent finished with status 0
+2013-03-11 22:51:06,492 - softwarecenter.db.database - INFO - reopen() database
+2013-03-11 22:51:06,492 - softwarecenter.db.database - INFO - open() database: path=None use_axi=True use_agent=True

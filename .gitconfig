@@ -1,0 +1,7 @@
+[user]
+	name = thuha
+	email = bkaa.08333@yahoo.com
+[alias]
+	co = checkout
+[core]
+	editor = gedit -w

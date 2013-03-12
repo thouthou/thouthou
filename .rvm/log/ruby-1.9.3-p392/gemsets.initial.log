@@ -1,0 +1,24 @@
+[2013-03-11 22:47:42] '/home/thuha/.rvm/scripts/gemsets' initial # under ruby-1.9.3-p392
+Importing initial gemsets for ruby-1.9.3-p392.
+paths: /home/thuha/.rvm/gemsets/ruby/1.9.3/p392 /home/thuha/.rvm/gemsets/ruby/1.9.3 /home/thuha/.rvm/gemsets/ruby /home/thuha/.rvm/gemsets
+
+Installing gems listed in /home/thuha/.rvm/gemsets/default.gems file...
+
+
+Processing of /home/thuha/.rvm/gemsets/default.gems is complete.
+
+
+Installing gems listed in /home/thuha/.rvm/gemsets/global.gems file...
+
+installing rubygems-bundler ...
+rubygems-bundler  installed.
+installing bundler ...
+bundler  installed.
+installing rake ...
+rake  installed.
+installing rvm ...
+rvm  installed.
+
+Processing of /home/thuha/.rvm/gemsets/global.gems is complete.
+
+Installation of gems for ruby-1.9.3-p392 is complete.

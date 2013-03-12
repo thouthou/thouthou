@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<compiz_session id="10514befe58fbc2889136299785834191200000016020033">
+  <window id="10514befe58fbc288913629984063240900000016020036" title="Terminal" class="Gnome-terminal" name="gnome-terminal" role="gnome-terminal-window-2334--744577364-1362998406" command="gnome-terminal">
+    <geometry x="565" y="87" width="722" height="434"/>
+    <workspace index="0"/>
+  </window>
+  <window id="10514befe58fbc2889136299853331576700000016020037" title="Gemfile (~/first_app) - gedit" class="Gedit" name="gedit" role="gedit-window-1362998533-821932-0-ubuntu" command="gedit">
+    <geometry x="601" y="58" width="650" height="500"/>
+    <workspace index="0"/>
+  </window>
+</compiz_session>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<compiz_session id="10965594cf6d077a86136301630794724600000015800033">
+  <window id="10965594cf6d077a86136301632955741300000015800036" title="Terminal" class="Gnome-terminal" name="gnome-terminal" role="gnome-terminal-window-1955-1146790966-1363016329" command="gnome-terminal">
+    <geometry x="636" y="127" width="722" height="434"/>
+    <workspace index="0"/>
+  </window>
+  <window id="10965594cf6d077a86136301632955741300000015800036" title="Terminal" class="Gnome-terminal" name="gnome-terminal" role="gnome-terminal-window-1955--1065645461-1363017767" command="gnome-terminal">
+    <geometry x="634" y="247" width="722" height="434"/>
+    <workspace index="0"/>
+  </window>
+</compiz_session>
